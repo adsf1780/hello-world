@@ -1,6 +1,6 @@
 # hello world
 
-Hi! I'm SungEun Kim, a computer science major at Hanyang University.
+Hi! I'm SungEun Kim, a computer science major at Hanyang University. 
 
 This repository is for practicing Git, GitHub, and Markdown in 
 *Musicology of Disease, Disability, and Suffering* (Fall 2026).
